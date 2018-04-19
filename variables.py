@@ -24,8 +24,7 @@
 
 # ... Écrivez votre code ici ...
 
-
-
+ma_variable=25
 print(ma_variable)
 
 
@@ -71,9 +70,3 @@ print(nombre)
 
 
 # ... Écrivez votre code ici ...
-
-
-
-
-
-
